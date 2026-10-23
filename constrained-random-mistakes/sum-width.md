@@ -139,9 +139,3 @@ width error, now showing up as a solve failure rather than unwanted solutions.
 
 The bit to keep beside this constraint: **what type holds the total before
 the equality is evaluated?** Counting array entries doesn't answer that.
-
-Validation: the four table rows and the possible wrapped totals were checked
-with Python 3.12.3 in this workspace. That checks the arithmetic model, not
-SystemVerilog expression evaluation or constraint solving. No HDL simulator
-was available on PATH; the SystemVerilog fragments remain uncompiled and
-unsimulated.
