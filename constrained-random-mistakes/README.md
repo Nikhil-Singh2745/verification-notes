@@ -7,3 +7,4 @@ Each post takes one mistake, follows the actual expression or solve behavior,
 and leaves a check that would expose it.
 
 1. [The sum constraint passed. The total is still wrong.](sum-width.md)
+2. [An implication left half the stimulus undefined](implication-gaps.md)
